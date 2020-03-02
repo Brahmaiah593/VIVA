@@ -1,0 +1,24 @@
+{
+"basics":{
+    "name":"Brahmi",
+    "role":"student",
+    "gmail":"brahmigunta143",
+    "phno":"+91 6305736241",
+    "education":[
+        {
+        "degree":"sse",
+        "pecentage":82,
+        "grade":"B"
+        },
+        {
+        "degree":"intermediate",
+        "pecentage":94.9,
+        "grade":"A"
+        },
+        {
+            "degree":"B.tech",
+            "pecentage":7.8
+        }
+    ]
+    }
+}

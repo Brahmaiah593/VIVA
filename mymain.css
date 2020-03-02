@@ -1,0 +1,43 @@
+.main{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.main1{
+    width: 20%;
+    background-color: orange;
+    height: fit-content;
+    position: fixed;
+
+
+}
+.main2{
+    width: 75%;
+    background-color: greenyellow;
+    height: 20;
+    margin-left: 22%;
+}
+img{
+    border-radius: 50%;
+}
+h1{
+    text-align: center;
+}
+.main1 h3{
+    text-align: center;
+}
+@media (min-width:260px) and (max-width:760px){
+    .main1{
+        width:100%;
+        position: relative;
+        
+    }
+    .main2{
+        width:100%;
+
+    }
+.main{
+    display: flex;
+    width: 100%;
+}
+}

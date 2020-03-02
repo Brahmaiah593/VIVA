@@ -1,0 +1,16 @@
+.main{
+    background-color: silver;
+    justify-content: space-around;
+    display: flex;
+    flex-wrap:wrap
+}
+#side1,#side2,#side3{
+    text-align: center;
+    background-color:orange;
+    border: 30;
+    width: 50%;
+    height: 20%;
+    margin-bottom: 5%;
+    padding-bottom: 10px;
+}
+
